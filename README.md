@@ -27,7 +27,7 @@
         <td>
             <code>🟢🟢🟢🟢🟢🟢🟢🟢⚫⚫</code>
         </td>
-        <td rowspan="4"><img src="/133C.gif" width="300px"></td>
+        <td rowspan="4"><img src="/133C.gif" width="260px"></td>
     </tr>
     <tr>
         <td>
