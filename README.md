@@ -2,7 +2,7 @@
     
 </head>
 <body>
-<img src="git_img_m.png">
+<img src="git_img_n.png">
 <h1 align="center">HELLO, I'm Shivaansh</h1>
 <ul>
     <li>💻I’m a student at University of Alberta, pursuing Bachelors degree in Computer Science  </li>
