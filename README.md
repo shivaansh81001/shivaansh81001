@@ -20,7 +20,6 @@
         <td>
             <code>🟢🟢🟢🟢🟢🟢🟢🟢⚫⚫</code>
         </td>
-        <td rowspan="4"></td>
         <td>
             <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         </td>
@@ -67,8 +66,8 @@
     </tr>
     
 </table>
-
 <hr>
+<h3>Tools</h3>
 </body>
 <!--
 **shivaansh81001/shivaansh81001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
