@@ -139,14 +139,14 @@
 </table>
 <hr>
 <h3>Hobbies</h3>
-<span width="400px">
+<div width="400px">
 <h4>Photography📷</h4>
 <ul>
     <li>I've been doing photography and capturing life since 2018 now and switched to a professional camera gear two years ago.</li>
     <li>What do I like capturing? Everything, but sunset and northern lights top it all. </li>
     <li>Check out my photography page by clicking <a href="https://www.instagram.com/clicks_happen/">here</a>.</li>
 </ul>
-</span><img src="sunset.jpg" height="50px" width="50px">
+</div><img src="sunset.jpg" height="50px" width="50px">
 
 
 
