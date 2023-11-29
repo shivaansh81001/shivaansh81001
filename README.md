@@ -68,18 +68,7 @@
 </table>
 <hr>
 <h3>Tools</h3>
+<span><a target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" alt="react" width="40" height="40"/> </a></span>
+<span><a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></span>
 </body>
-<!--
-**shivaansh81001/shivaansh81001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
