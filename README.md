@@ -139,7 +139,7 @@
 </table>
 <hr>
 <h3>Hobbies</h3>
-<span>
+<span width="400px">
 <h4>Photography📷</h4>
 <ul>
     <li>I've been doing photography and capturing life since 2018 now and switched to a professional camera gear two years ago.</li>
