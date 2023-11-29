@@ -81,22 +81,37 @@
             <span><a > <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a></span>
         </td>
     </tr>
+    <tr>
+        <td>
+            <h3>Familiar Coding Environments</h3>
+        </td>
+        <td>
+            <span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181339%21Spyder_logo.svg" alt="react" width="40" height="40"/> </a></span>
+            <span><a><img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" alt="tkinter" width="40" height="40"/></a></span>
+            <span><a><img src = "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/></a></span>
+            <span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> </a></span>
+            <span><a > <img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" alt="sublime text" width="40" height="40"/> </a></span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>AI/ML Libraries</h3>
+        </td>
+        <td>
+            <span><a><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"></a></span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Databases</h3>
+        </td>
+        <td>
+            <span><a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"></a></span>
+            <span><a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"></a></span>
+        </td>
+    </tr>
 </table>
 
 
-<br>
-<h3>Familiar Coding Environments</h3>
-<span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181339%21Spyder_logo.svg" alt="react" width="40" height="40"/> </a></span>
-<span><a><img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" alt="tkinter" width="40" height="40"/></a></span>
-<span><a><img src = "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/></a></span>
-<span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> </a></span>
-<span><a > <img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" alt="sublime text" width="40" height="40"/> </a></span>
-<br>
-<h3>AI/ML Libraries</h3>
-<span><a><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"></a></span>
-<br>
-<h3>Databases</h3>
-<span><a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"></a></span>
-<span><a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"></a></span>
 </body>
 
