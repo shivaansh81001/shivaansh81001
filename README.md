@@ -72,5 +72,8 @@
 <span><a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></span>
 <span><a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></span>
 <span><a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></span>
+<br>
+<h3>Familiar Coding Environments</h3>
+<span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181339%21Spyder_logo.svg" alt="react" width="40" height="40"/> </a></span>
 </body>
 
