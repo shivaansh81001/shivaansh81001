@@ -77,7 +77,6 @@
 <h3>Familiar Coding Environments</h3>
 <span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181339%21Spyder_logo.svg" alt="react" width="40" height="40"/> </a></span>
 <span><a><img src = "https://i.ibb.co/hMTyD9g/pngwing-com.png" alt="tkinter" width="40" height="40"/></a></span>
-<span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="spyder" width="40" height="40"/> </a></span>
 <span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> </a></span>
 <span><a > <img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" alt="sublime text" width="40" height="40"/> </a></span>
 <br>
