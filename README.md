@@ -119,8 +119,8 @@
             <span><a > <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></span>
             <span><a><img src = "https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" alt="procreate" width="40" height="40"/></a></span>
             <span><a > <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="lightroom" width="40" height="40"/> </a></span>
-            <span><a><img src = "https://en.wikipedia.org/wiki/Snapseed#/media/File:Snapseed_Logo.svg" alt="snapseed" width="40" height="40"/></a></span>
-            <span><a > <img src="https://www.seekpng.com/png/detail/52-520769_autodesk-sketchbook-official-logo-autodesk-sketchbook-pro.png" alt="sketchbook" width="40" height="40"/> </a></span>
+            <span><a><img src = "https://upload.wikimedia.org/wikipedia/en/d/db/Snapseed_Logo.svg" alt="snapseed" width="40" height="40"/></a></span>
+            <span><a > <img src="https://seeklogo.com/images/A/autodesk-sketchbook-pro-logo-57D2CF66B2-seeklogo.com.png" alt="sketchbook" width="40" height="40"/> </a></span>
             <span><a><img src = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Kinemaster_Icon_2022.svg" alt="kinemaster" width="40" height="40"/></a></span>
         </td>
     </tr>
