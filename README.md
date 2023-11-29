@@ -146,8 +146,7 @@
             <ul>
                 <li>I've been doing photography and capturing life since 2018 now and switched to a professional camera gear two years ago.</li>
                 <li>What do I like capturing? Everything, but sunset and northern lights top it all. </li>
-                <li>Check out my photography page by clicking <a href="https://www.instagram.com/clicks_happen/">here</a>.<a><img src="![image](https://github.com/shivaansh81001/shivaansh81001/assets/73255518/337b9b1d-c949-4320-9130-2f46118b8705)
-" width="20px" height="20px"></a></li>
+                <li>Check out my photography page by clicking <a href="https://www.instagram.com/clicks_happen/">here</a>.<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png?20210403190622" width="20px" height="20px"></a></li>
             </ul> 
         </td>
         <td>
