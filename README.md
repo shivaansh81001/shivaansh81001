@@ -67,6 +67,8 @@
     
 </table>
 <hr>
+<img src="wp_long.png">
+<hr>
 <h3>Tools</h3>
 <table>
     <tr>
