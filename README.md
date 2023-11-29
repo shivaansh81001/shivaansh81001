@@ -67,7 +67,7 @@
     
 </table>
 
-<img src="wp_long_bw.jpg">
+<img src="wp_long.jpg">
 
 <h3>Tools</h3>
 <table>
