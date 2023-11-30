@@ -11,7 +11,7 @@
 </ul>
 
 <hr>
-<h3>Languages</h3>
+<p align="center"><h3>Languages</h3></p>
 <table>
     <tr>
         <td>
