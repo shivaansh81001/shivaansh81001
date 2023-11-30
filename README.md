@@ -142,7 +142,7 @@
 <table>
     <tr>
         <td>
-           <h4>Photography📷</h4>
+           <h4><b>Photography</b>📷</h4>
             <ul>
                 <li>I've been doing photography and capturing life since 2018 now and switched to a professional camera gear two years ago.</li>
                 <li>What do I like capturing? Everything, but sunset and northern lights top it all. </li>
@@ -158,7 +158,7 @@
             <img src="" width="200px" height="200px">
         </td>
         <td>
-            <h4>Digital Art 🖌️</h4>
+            <h4><b>Digital Art</b>🖌️</h4>
             <ul>
                 <li>Taking on digital art was more of challenge to myself than exploring.</li>
                 <li>I was more of a traditional paper and pencil artist, but with the surge of technology around 2017 forced me to discover this field, and then there was no turning back.</li>
