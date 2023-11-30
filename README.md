@@ -188,7 +188,7 @@
             </ul>
         </td>
         <td>
-            <img src="phtot.JPEG" width="100%" height="70%">
+            <img src="phtot.JPEG" width="570px" height="230px">
         </td>
     </tr>
 </table>
