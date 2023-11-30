@@ -161,12 +161,12 @@
             </ul> 
         </td>
         <td>
-            <img src="" width="" height="">
+            <img src="photo.JPG" width="570px" height="230px">
         </td>
     </tr>
     <tr>
         <td>
-            <img src="" width="" height="">
+            <img src="artt.jpg" width="570px" height="230px">
         </td>
         <td>
             <h4><b>Digital Art</b>🖌️</h4>
@@ -188,7 +188,7 @@
             </ul>
         </td>
         <td>
-            <img src="phtot.JPEG" width="570px" height="230px">
+            <img src="phto.JPEG" width="570px" height="230px">
         </td>
     </tr>
 </table>
