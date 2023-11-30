@@ -138,6 +138,7 @@
     </tr>
 </table>
 <hr>
+<!--
 <h3><b>Volunteer Work</b> 🫂</h3>
 <h4>Animal Shelter Caregiver</h4>
 <ul type="-">
@@ -147,7 +148,7 @@
 <ul type="-">
     <li>For me, nothing is more peaceful than the fact that I have helped someone who is less fortunate than me. I am always looking for ways to help people not just physically but financially as well, and for that same reason, for years now, I have been donating in this foundation that helps people seeking help especially medical help and I am proud of it.</li>
 </ul>
-<hr>
+<hr>-->
 <h3>Hobbies</h3>
 <table>
     <tr>
