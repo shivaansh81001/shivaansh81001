@@ -138,6 +138,16 @@
     </tr>
 </table>
 <hr>
+<h3><b>Volunteer Work</b> 🫂</h3>
+<h4>Animal Shelter Caregiver</h4>
+<ul type="-">
+    <li>I am volunteering as an animal caregiver at the AARCS North Haven animal shelter in Edmonton, Alberta. My job is to take care of the friends who take care of this world by spreading pure joy and happiness and make sure the four legged friends are ready for their next family. </li>
+</ul>
+<h4>Milap Foundation Donor</h4>
+<ul type="-">
+    <li>For me, nothing is more peaceful than the fact that I have helped someone who is less fortunate than me. I am always looking for ways to help people not just physically but financially as well, and for that same reason, for years now, I have been donating in this foundation that helps people seeking help especially medical help and I am proud of it.</li>
+</ul>
+<hr>
 <h3>Hobbies</h3>
 <table>
     <tr>
@@ -150,7 +160,7 @@
             </ul> 
         </td>
         <td>
-            <img src="sunset.jpg" width="200px" height="200px">
+            <img src="" width="200px" height="200px">
         </td>
     </tr>
     <tr>
@@ -167,7 +177,22 @@
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>
+            <h3><b>Travelling</b> 🗺️</h3>
+            <ul>
+                <li>Surprisingly, the actual goal of my life is travel, just travel.</li>
+                <li>I have already started this journey by exploring major cities in Canada with whatever resources I have now as a student.</li>
+                <li>What's my next dream destination?✈️ Philippines and Japan.</li>
+            </ul>
+        </td>
+        <td>
+            <img src="" width="" height="">
+        </td>
+    </tr>
 </table>
+
+
 
 </body>
 
