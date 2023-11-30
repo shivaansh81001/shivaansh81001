@@ -192,7 +192,10 @@
         </td>
     </tr>
 </table>
-
+<hr>
+<h3>Socials</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/clicks_happen/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" width="20px" height="20px"></a>
+</p>
 
 
 </body>
