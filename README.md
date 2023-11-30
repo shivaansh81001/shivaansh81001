@@ -153,6 +153,20 @@
             <img src="sunset.jpg" width="200px" height="200px">
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="" width="200px" height="200px">
+        </td>
+        <td>
+            <h4>Digital Art</h4>
+            <ul>
+                <li>Taking on digital art was more of challenge to myself than exploring.</li>
+                <li>I was more of a traditional paper and pencil artist, but with the surge of technology around 2017 forced me to discover this field, and then there was no turning back.</li>
+                <li>From drawing for fun to posting them on <a href="https://opensea.io/Wr4th">opensea.io</a> as NFT was a journey in itself.</li>
+                <li>Also, do checkout my latest digital art timelapse by clicking <a href="https://www.youtube.com/watch?v=6yXTphWZny4&feature=youtu.be">here</a>.</li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
 </body>
